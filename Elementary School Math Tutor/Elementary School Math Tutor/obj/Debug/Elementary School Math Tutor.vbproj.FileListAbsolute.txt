@@ -1,0 +1,16 @@
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Elementary School Math Tutor\Elementary School Math Tutor\bin\Debug\Elementary School Math Tutor.exe.config
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Elementary School Math Tutor\Elementary School Math Tutor\bin\Debug\Elementary School Math Tutor.exe
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Elementary School Math Tutor\Elementary School Math Tutor\bin\Debug\Elementary School Math Tutor.pdb
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Elementary School Math Tutor\Elementary School Math Tutor\bin\Debug\Elementary School Math Tutor.xml
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Elementary School Math Tutor\Elementary School Math Tutor\obj\Debug\Elementary School Math Tutor.vbproj.AssemblyReference.cache
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Elementary School Math Tutor\Elementary School Math Tutor\obj\Debug\Elementary_School_Math_Tutor.frmMath.resources
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Elementary School Math Tutor\Elementary School Math Tutor\obj\Debug\Elementary_School_Math_Tutor.Resources.resources
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Elementary School Math Tutor\Elementary School Math Tutor\obj\Debug\Elementary School Math Tutor.vbproj.GenerateResource.cache
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Elementary School Math Tutor\Elementary School Math Tutor\obj\Debug\Elementary School Math Tutor.vbproj.CoreCompileInputs.cache
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Elementary School Math Tutor\Elementary School Math Tutor\obj\Debug\Elementary School Math Tutor.exe
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Elementary School Math Tutor\Elementary School Math Tutor\obj\Debug\Elementary School Math Tutor.xml
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Elementary School Math Tutor\Elementary School Math Tutor\obj\Debug\Elementary School Math Tutor.pdb
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Elementary School Math Tutor\Elementary School Math Tutor\bin\Debug\Elementary School Math Tutor.exe.manifest
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Elementary School Math Tutor\Elementary School Math Tutor\bin\Debug\Elementary School Math Tutor.application
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Elementary School Math Tutor\Elementary School Math Tutor\obj\Debug\Elementary School Math Tutor.exe.manifest
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Elementary School Math Tutor\Elementary School Math Tutor\obj\Debug\Elementary School Math Tutor.application
